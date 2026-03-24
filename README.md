@@ -118,6 +118,4 @@ This project is built using open-source libraries and computer vision techniques
 
 ---
 
-## 👩‍💻 Author
 
-**Lakshana Rajendran**
